@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138232391834",
+    "project_id": "absen-1d4d0",
+    "storage_bucket": "absen-1d4d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138232391834:android:ad8ea08e1954adf09e5723",
+        "android_client_info": {
+          "package_name": "com.jadwal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138232391834-faj09uapthl3n01f33gal6nl6tadqu6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhKnuNdHd43qnMzfhpad8gpnxMQZ2wg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138232391834-faj09uapthl3n01f33gal6nl6tadqu6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
